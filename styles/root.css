@@ -1,0 +1,19 @@
+
+:root {
+  font-size: 16px; /* 1rem */
+
+  /* colors */
+  --bg: #FFFFFF;
+  --primary: #333333;
+  --secondary: #888888;
+  --accent: #607CE6;
+  --surface: #F5F5F5;
+
+  /* box-sizing */
+  --container: 73.75rem; /* 1180px */
+  --gap-bottom: 5rem; /* 80px */
+
+  /* fonts */
+  --line-height-title: 1.2;
+  --line-height-text: 1.4;
+}
